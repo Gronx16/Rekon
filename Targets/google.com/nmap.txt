@@ -1,0 +1,9 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-02-04 14:19 IST
+Nmap scan report for maa05s12-in-f14.1e100.net (142.250.67.46)
+Host is up (0.099s latency).
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 3.94 seconds

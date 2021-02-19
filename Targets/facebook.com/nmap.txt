@@ -1,0 +1,10 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-02-19 23:06 IST
+Nmap scan report for edge-star-mini-shv-02-bom1.facebook.com (31.13.79.35)
+Host is up (0.090s latency).
+Not shown: 97 filtered ports
+PORT    STATE SERVICE
+53/tcp  open  domain
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 3.47 seconds
